@@ -28,6 +28,8 @@
         h2 {
             width: 150px;
             text-align: center;
+            height:50px;
+            margin-top:20px;
         }
 
         .chicken {
